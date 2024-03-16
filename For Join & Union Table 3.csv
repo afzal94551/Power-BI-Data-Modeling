@@ -1,0 +1,28 @@
+Employees ID,IT Code,Name,Gender,Job Grade,Job Department,Home Department,Employee Type,Job Type,DOJ
+A10010,10009,Aahana Sharma,Female,Manger Level,Operation,Customer Care,Support,Support,13-09-2013
+A10011,10010,SHAHILA BANO,Female,Manger Level,Operation,Customer Care,Support,Support,06-08-2017
+A10012,10011,Taabish Faruqui,Male,Manger Level,Operation,Customer Care,Support,Support,09-05-2010
+A10022,10021,Gaurangi Kumari,Female,Manger Level,Operation,Customer Care,Support,Support,15-06-2016
+A10023,10022,Deepa Kumari,Female,Manger Level,Operation,Customer Care,Support,Support,19-11-2017
+A10024,10023,Aytan Khan,Female,TL Level,Operation,Customer Care,Support,Support,17-09-2016
+A10025,10024,Upasna Kumari,Female,TL Level,Operation,Customer Care,Support,Support,12-10-2020
+A10026,10025,Bishakha Sharma,Female,TL Level,Operation,Customer Care,Support,Support,17-10-2016
+A10027,10026,Chandrakant kapoor,Male,TL Level,Operation,Customer Care,Support,Support,14-02-2022
+A10028,10027,Ash-Shir Khan,Female,TL Level,Operation,Customer Care,Support,Support,19-05-2016
+A10029,10028,Watika Kumari,Female,TL Level,Operation,Customer Care,Support,Support,18-06-2015
+A10030,10029,Aalim Khan,Male,TL Level,Operation,Customer Care,Support,Support,11-04-2015
+A10095,10094,Radha Kumari,Female,Staff Level,Operation,Customer Care,Floor,Support,20-Jan-21
+A10096,10095,Aarna Sharma,Female,Staff Level,Operation,Customer Care,Floor,Support,11-Jun-20
+A10097,10096,Owez Saify,Male,Staff Level,Operation,Customer Care,Floor,Support,12-Nov-22
+A10098,10097,Arunima Kumari,Female,Staff Level,Operation,Customer Care,Floor,Support,26-Feb-20
+A10099,10098,Najeeb Meer,Male,Staff Level,Operation,Customer Care,Floor,Support,22-Feb-20
+A10100,10099,Vasant,Male,Staff Level,Operation,Customer Care,Floor,Support,14-Mar-20
+A10101,10100,Shashank,Male,Staff Level,Operation,Customer Care,Floor,Support,18-Aug-21
+A10102,10101,Vijay Sharma,Male,Staff Level,Operation,Customer Care,Floor,Support,10-May-20
+A10103,10102,Faarooq Khan,Male,Staff Level,Operation,Customer Care,Floor,Support,15-Apr-22
+A10104,10103,Sanket Sharma,Male,Staff Level,Operation,Customer Care,Floor,Support,28-Jul-20
+A10105,10104,Harita Kumari,Female,Staff Level,Operation,Customer Care,Floor,Support,12-Aug-20
+A10106,10105,Chafik Siddique,Male,Staff Level,Operation,Customer Care,Floor,Support,19-Feb-20
+A10107,10106,Habib Faruqui,Male,Staff Level,Operation,Customer Care,Floor,Support,03-Jun-22
+A10108,10107,Hussain Mirza,Male,Staff Level,Operation,Customer Care,Floor,Support,23-Aug-21
+A10109,10108,Daanish Mirza,Male,Staff Level,Operation,Customer Care,Floor,Support,19-Sep-22
